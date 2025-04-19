@@ -6,7 +6,7 @@
 
 ## 😎 Credit
 
-🥳 Credit Goes To [Tushar](https://t.me/Oye_brijesh)
+🥳 Credit Goes To [BRIJESH](https://t.me/Oye_brijesh)
 
   
 ## 🔥 Commands
