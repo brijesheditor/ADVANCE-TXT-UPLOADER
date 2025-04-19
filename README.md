@@ -1,12 +1,12 @@
 <h1 align="center">
-  🇮🇳 ᴛᴜsʜᴀʀ ᴛxᴛ ᴜᴘʟᴏᴀᴅᴇʀ 🇮🇳
+  🇮🇳 BRIJESH TXT UPLOADER 🇮🇳
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Txt+Uploader+Bot+!)
 
 ## 😎 Credit
 
-🥳 Credit Goes To [Tushar](https://t.me/Tushar0125)
+🥳 Credit Goes To [Tushar](https://t.me/Oye_brijesh)
 
   
 ## 🔥 Commands
