@@ -47,7 +47,7 @@ cpimg = "https://graph.org/file/5ed50675df0faf833efef-e102210eb72c1d5a17.jpg"
 
 
 async def show_random_emojis(message):
-    emojis = ['😜','🎊', '🔮', '😎', '⚡️', '🚀', '✨', '💥', '🎉', '🥂', '🍾', '🦠', '🤖', '❤️‍🔥', '🕊️', '💃', '🥳','🐅','🦁']
+    emojis = ['🇮🇳', '😜','🎊', '🔮', '😎', '⚡️', '🚀', '✨', '💥', '🎉', '🥂', '🍾', '🦠', '🤖', '❤️‍🔥', '🕊️', '💃', '🥳','🐅','🦁']
     emoji_message = await message.reply_text(' '.join(random.choices(emojis, k=1)))
     return emoji_message
     
@@ -55,9 +55,9 @@ async def show_random_emojis(message):
 OWNER_ID = 6344648593 # Replace with the actual owner's user ID
 
 # List of sudo users (initially empty or pre-populated)
-SUDO_USERS = [6344648593,7241062329,6453701484,6158571763,7200917287]
+SUDO_USERS = [6344648593,6453701484,6158571763]
 
-AUTH_CHANNEL = -1002539534939
+AUTH_CHANNEL = -1002457503798
 
 # Function to check if a user is authorized
 def is_authorized(user_id: int) -> bool:
@@ -120,6 +120,13 @@ keyboard = InlineKeyboardMarkup(
     
 # Image URLs for the random image feature
 image_urls = [
+    "https://i.ibb.co/dpRKmmj/file-3957.jpg",
+    "https://i.ibb.co/NSbPQ5n/file-3956.jpg",
+    "https://i.ibb.co/Z8R4z0g/file-3962.jpg",
+    "https://i.ibb.co/LtqjVy7/file-3958.jpg",
+    "https://i.ibb.co/bm20zfd/file-3959.jpg",
+    "https://i.ibb.co/0V0BngV/file-3960.jpg",
+    "https://i.ibb.co/rQMXQjX/file-3961.jpg",
     "https://graph.org/file/996d4fc24564509244988-a7d93d020c96973ba8.jpg",
     "https://graph.org/file/96d25730136a3ea7e48de-b0a87a529feb485c8f.jpg",
     "https://graph.org/file/6593f76ddd8c735ae3ce2-ede9fa2df40079b8a0.jpg",
